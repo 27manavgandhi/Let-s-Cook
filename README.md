@@ -14,9 +14,6 @@
 ## Screenshots
 
 ![img](https://i.postimg.cc/ZKVZ0031/Untitled-design.png)
-![img](https://i.postimg.cc/x16KsGmt/Untitled-design-1.png)
-![img](https://i.postimg.cc/QtT1xRyy/Untitled-design-2.png)
-![img](https://i.postimg.cc/wT34cBnK/Untitled-design-3.png)
 
 ## Follow the steps below to set up and install the project dependencies.
 
